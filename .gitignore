@@ -16,6 +16,8 @@ env/
 
 # Excluded Core Files
 backend/config/settings.py
+backend/database/vault.json
+backend/config/override.yaml
 
 # Node.js
 node_modules/

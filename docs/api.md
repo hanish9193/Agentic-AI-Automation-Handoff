@@ -587,7 +587,7 @@ Returns decrypted username and password from vault. Falls back to first non-null
 ```json
 {
   "username": "ADACTINFORQA",
-  "password": "hanish13"
+  "password": "your_password_here"
 }
 ```
 

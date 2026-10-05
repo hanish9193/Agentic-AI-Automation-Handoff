@@ -251,11 +251,11 @@ LANGSMITH_PROJECT=My Project
 ### Jira Configuration (.env):
 ```env
 # Jira instance URL
-JIRA__BASE_URL=https://hanishgpay.atlassian.net/
+JIRA__BASE_URL=https://your-domain.atlassian.net/
 
 # Jira authentication
-JIRA__EMAIL=hanishgpay@gmail.com
-JIRA__API_TOKEN=ATATT3xFfGF0pbfYanVI5pLY6_H41LkQ82TeK-Y4DUwPS8LXnWsa2VPT8Qe5Lffc3uTC8GJOEljbj8aq64vi35YLfrlAkAQfrS8xHwRcstfTn2cDwQH-eCv-aBqfM1rqtFXEp-OmamH4QYifh6qBvmpJIpJde0GNhajPak0gkuis-WSuyNXLjA0=EC64C113
+JIRA__EMAIL=user@example.com
+JIRA__API_TOKEN=your_jira_api_token_here
 
 # Jira project key
 JIRA__PROJECT_KEY=SCRUM
